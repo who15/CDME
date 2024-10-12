@@ -1,2 +1,2 @@
 # CDME
-we will update the project contining..
+CDME: Convolutional Dictionary Itrative Model For Remote Sensing Image Fusion with Mixture-of-Experts
